@@ -559,6 +559,10 @@ video {
   background-color: rgb(220 252 231 / var(--tw-bg-opacity));
 }
 
+.text-center {
+  text-align: center;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
